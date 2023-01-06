@@ -4,6 +4,8 @@ https://www.temperature-blanket.com/info/project/3028/fort-worth-texas-united-st
 
 ## Yarn
 
+[Palette](https://www.crochet.com/yarn/palette/c/5420132)
+
 | Hex | Range | Color name |
 |-----|-------|------------|
 | `#043035` | 9 - 42 |  |
