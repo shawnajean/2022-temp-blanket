@@ -6,15 +6,15 @@ https://www.temperature-blanket.com/info/project/3028/fort-worth-texas-united-st
 
 [Palette](https://www.crochet.com/yarn/palette/c/5420132)
 
-| Hex | Range | Color name |
-|-----|-------|------------|
-| `#043035` | 9 - 42 | Shoal |
-| `#1d484c` | 42 - 53 | Teal |
-| `#70806f` | 53 - 59 | Spearmint |
-| `#7caba0` | 59 - 65 | Sagebrush |
-| `#9a999a` | 65 - 70 | Marble Heather |
-| `#93819e` | 70 - 78 | Seraphim |
-| `#474963` | 78 - 86 | Urchin |
-| `#3a3054` | 86 - 94 | Comfrey |
-| `#2b1d37` | 94 - 101 | Indigo heather |
-| `#1c1b20` | 101 - 110 | Asphalt heather |
+| Code | Hex | Range | Color name |
+|------|-----|-------|------------|
+| A | `#043035` | 9 - 42 | Shoal |
+| B | `#1d484c` | 42 - 53 | Teal |
+| C | `#70806f` | 53 - 59 | Spearmint |
+| D | `#7caba0` | 59 - 65 | Sagebrush |
+| E | `#9a999a` | 65 - 70 | Marble Heather |
+| F | `#93819e` | 70 - 78 | Seraphim |
+| G | `#474963` | 78 - 86 | Urchin |
+| H | `#3a3054` | 86 - 94 | Comfrey |
+| I | `#2b1d37` | 94 - 101 | Indigo heather |
+| J | `#1c1b20` | 101 - 110 | Asphalt heather |
