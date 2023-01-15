@@ -1,0 +1,366 @@
+Item Number,Date,High Temperature (°F),Color
+1,1/1/2022,72.32,Seraphim
+2,1/2/2022,38.84,Shoal
+3,1/3/2022,55.94,Spearmint
+4,1/4/2022,64.22,Sagebrush
+5,1/5/2022,59.72,Sagebrush
+6,1/6/2022,39.38,Shoal
+7,1/7/2022,46.22,Teal
+8,1/8/2022,62.06,Sagebrush
+9,1/9/2022,60.8,Sagebrush
+10,1/10/2022,56.66,Spearmint
+11,1/11/2022,58.46,Spearmint
+12,1/12/2022,63.86,Sagebrush
+13,1/13/2022,73.94,Seraphim
+14,1/14/2022,75.74,Seraphim
+15,1/15/2022,48.02,Teal
+16,1/16/2022,54.14,Spearmint
+17,1/17/2022,64.76,Sagebrush
+18,1/18/2022,76.82,Seraphim
+19,1/19/2022,60.8,Sagebrush
+20,1/20/2022,36.32,Shoal
+21,1/21/2022,43.16,Teal
+22,1/22/2022,50.9,Teal
+23,1/23/2022,64.58,Sagebrush
+24,1/24/2022,55.76,Spearmint
+25,1/25/2022,58.1,Spearmint
+26,1/26/2022,49.28,Teal
+27,1/27/2022,51.08,Teal
+28,1/28/2022,55.94,Spearmint
+29,1/29/2022,68.18,Marble Heather
+30,1/30/2022,71.42,Seraphim
+31,1/31/2022,66.74,Marble Heather
+32,2/1/2022,71.06,Seraphim
+33,2/2/2022,56.3,Spearmint
+34,2/3/2022,28.58,Shoal
+35,2/4/2022,33.98,Shoal
+36,2/5/2022,47.48,Teal
+37,2/6/2022,56.3,Spearmint
+38,2/7/2022,58.1,Spearmint
+39,2/8/2022,66.74,Marble Heather
+40,2/9/2022,69.08,Marble Heather
+41,2/10/2022,70.7,Seraphim
+42,2/11/2022,77.18,Seraphim
+43,2/12/2022,55.04,Spearmint
+44,2/13/2022,64.58,Sagebrush
+45,2/14/2022,71.42,Seraphim
+46,2/15/2022,71.06,Seraphim
+47,2/16/2022,69.08,Marble Heather
+48,2/17/2022,67.1,Marble Heather
+49,2/18/2022,53.6,Spearmint
+50,2/19/2022,64.94,Sagebrush
+51,2/20/2022,66.2,Marble Heather
+52,2/21/2022,83.48,Comfrey
+53,2/22/2022,69.08,Marble Heather
+54,2/23/2022,31.82,Shoal
+55,2/24/2022,29.12,Shoal
+56,2/25/2022,37.4,Shoal
+57,2/26/2022,38.48,Shoal
+58,2/27/2022,57.2,Spearmint
+59,2/28/2022,66.02,Marble Heather
+60,3/1/2022,74.3,Seraphim
+61,3/2/2022,77.9,Seraphim
+62,3/3/2022,78.62,Comfrey
+63,3/4/2022,72.32,Seraphim
+64,3/5/2022,79.16,Comfrey
+65,3/6/2022,78.8,Comfrey
+66,3/7/2022,50.72,Teal
+67,3/8/2022,46.76,Teal
+68,3/9/2022,58.64,Spearmint
+69,3/10/2022,67.28,Marble Heather
+70,3/11/2022,40.46,Teal
+71,3/12/2022,57.2,Spearmint
+72,3/13/2022,64.94,Sagebrush
+73,3/14/2022,77.54,Seraphim
+74,3/15/2022,71.96,Seraphim
+75,3/16/2022,79.88,Comfrey
+76,3/17/2022,75.74,Seraphim
+77,3/18/2022,68,Marble Heather
+78,3/19/2022,76.28,Seraphim
+79,3/20/2022,79.7,Comfrey
+80,3/21/2022,74.12,Seraphim
+81,3/22/2022,55.94,Spearmint
+82,3/23/2022,63.14,Sagebrush
+83,3/24/2022,67.64,Marble Heather
+84,3/25/2022,80.78,Comfrey
+85,3/26/2022,85.28,Comfrey
+86,3/27/2022,93.02,Urchin
+87,3/28/2022,83.84,Comfrey
+88,3/29/2022,78.08,Comfrey
+89,3/30/2022,72.68,Seraphim
+90,3/31/2022,68.9,Marble Heather
+91,4/1/2022,75.02,Seraphim
+92,4/2/2022,75.92,Seraphim
+93,4/3/2022,83.3,Comfrey
+94,4/4/2022,78.62,Comfrey
+95,4/5/2022,93.56,Urchin
+96,4/6/2022,76.82,Seraphim
+97,4/7/2022,68.9,Marble Heather
+98,4/8/2022,68,Marble Heather
+99,4/9/2022,86.54,Urchin
+100,4/10/2022,82.04,Comfrey
+101,4/11/2022,88.34,Urchin
+102,4/12/2022,81.68,Comfrey
+103,4/13/2022,78.62,Comfrey
+104,4/14/2022,75.2,Seraphim
+105,4/15/2022,83.66,Comfrey
+106,4/16/2022,80.6,Comfrey
+107,4/17/2022,77.54,Seraphim
+108,4/18/2022,73.04,Seraphim
+109,4/19/2022,74.12,Seraphim
+110,4/20/2022,90.14,Urchin
+111,4/21/2022,85.1,Comfrey
+112,4/22/2022,84.74,Comfrey
+113,4/23/2022,82.22,Comfrey
+114,4/24/2022,81.68,Comfrey
+115,4/25/2022,67.1,Marble Heather
+116,4/26/2022,73.76,Seraphim
+117,4/27/2022,76.1,Seraphim
+118,4/28/2022,81.32,Comfrey
+119,4/29/2022,80.6,Comfrey
+120,4/30/2022,82.22,Comfrey
+121,5/1/2022,83.3,Comfrey
+122,5/2/2022,84.56,Comfrey
+123,5/3/2022,76.64,Seraphim
+124,5/4/2022,85.46,Comfrey
+125,5/5/2022,78.98,Comfrey
+126,5/6/2022,85.64,Comfrey
+127,5/7/2022,88.88,Urchin
+128,5/8/2022,92.84,Urchin
+129,5/9/2022,91.94,Urchin
+130,5/10/2022,89.96,Urchin
+131,5/11/2022,89.42,Urchin
+132,5/12/2022,91.4,Urchin
+133,5/13/2022,92.66,Urchin
+134,5/14/2022,93.74,Urchin
+135,5/15/2022,96.62,Indigo heather
+136,5/16/2022,90.86,Urchin
+137,5/17/2022,94.46,Indigo heather
+138,5/18/2022,95.36,Indigo heather
+139,5/19/2022,94.46,Indigo heather
+140,5/20/2022,93.56,Urchin
+141,5/21/2022,89.78,Urchin
+142,5/22/2022,72.68,Seraphim
+143,5/23/2022,78.8,Comfrey
+144,5/24/2022,75.02,Seraphim
+145,5/25/2022,72.32,Seraphim
+146,5/26/2022,87.98,Urchin
+147,5/27/2022,91.58,Urchin
+148,5/28/2022,93.2,Urchin
+149,5/29/2022,93.2,Urchin
+150,5/30/2022,91.58,Urchin
+151,5/31/2022,94.28,Indigo heather
+152,6/1/2022,90.14,Urchin
+153,6/2/2022,83.84,Comfrey
+154,6/3/2022,81.32,Comfrey
+155,6/4/2022,87.26,Urchin
+156,6/5/2022,91.58,Urchin
+157,6/6/2022,94.64,Indigo heather
+158,6/7/2022,93.2,Urchin
+159,6/8/2022,89.24,Urchin
+160,6/9/2022,93.74,Urchin
+161,6/10/2022,99.14,Indigo heather
+162,6/11/2022,103.46,Asphalt heather
+163,6/12/2022,103.64,Asphalt heather
+164,6/13/2022,98.96,Indigo heather
+165,6/14/2022,96.26,Indigo heather
+166,6/15/2022,96.62,Indigo heather
+167,6/16/2022,98.42,Indigo heather
+168,6/17/2022,98.24,Indigo heather
+169,6/18/2022,97.52,Indigo heather
+170,6/19/2022,98.42,Indigo heather
+171,6/20/2022,100.22,Indigo heather
+172,6/21/2022,99.32,Indigo heather
+173,6/22/2022,98.6,Indigo heather
+174,6/23/2022,100.94,Indigo heather
+175,6/24/2022,102.56,Asphalt heather
+176,6/25/2022,100.94,Indigo heather
+177,6/26/2022,100.94,Indigo heather
+178,6/27/2022,93.56,Urchin
+179,6/28/2022,91.04,Urchin
+180,6/29/2022,93.56,Urchin
+181,6/30/2022,98.42,Indigo heather
+182,7/1/2022,95.36,Indigo heather
+183,7/2/2022,98.96,Indigo heather
+184,7/3/2022,100.4,Indigo heather
+185,7/4/2022,99.32,Indigo heather
+186,7/5/2022,101.12,Asphalt heather
+187,7/6/2022,102.92,Asphalt heather
+188,7/7/2022,102.02,Asphalt heather
+189,7/8/2022,104.9,Asphalt heather
+190,7/9/2022,105.44,Asphalt heather
+191,7/10/2022,102.74,Asphalt heather
+192,7/11/2022,101.66,Asphalt heather
+193,7/12/2022,102.74,Asphalt heather
+194,7/13/2022,104.54,Asphalt heather
+195,7/14/2022,97.88,Indigo heather
+196,7/15/2022,98.24,Indigo heather
+197,7/16/2022,98.96,Indigo heather
+198,7/17/2022,104.36,Asphalt heather
+199,7/18/2022,108.68,Asphalt heather
+200,7/19/2022,108.14,Asphalt heather
+201,7/20/2022,108.14,Asphalt heather
+202,7/21/2022,101.48,Asphalt heather
+203,7/22/2022,100.04,Indigo heather
+204,7/23/2022,100.4,Indigo heather
+205,7/24/2022,102.02,Asphalt heather
+206,7/25/2022,103.64,Asphalt heather
+207,7/26/2022,102.38,Asphalt heather
+208,7/27/2022,102.38,Asphalt heather
+209,7/28/2022,101.84,Asphalt heather
+210,7/29/2022,102.2,Asphalt heather
+211,7/30/2022,99.32,Indigo heather
+212,7/31/2022,102.38,Asphalt heather
+213,8/1/2022,100.22,Indigo heather
+214,8/2/2022,102.38,Asphalt heather
+215,8/3/2022,103.82,Asphalt heather
+216,8/4/2022,100.94,Indigo heather
+217,8/5/2022,103.46,Asphalt heather
+218,8/6/2022,98.6,Indigo heather
+219,8/7/2022,99.86,Indigo heather
+220,8/8/2022,101.84,Asphalt heather
+221,8/9/2022,101.12,Asphalt heather
+222,8/10/2022,97.16,Indigo heather
+223,8/11/2022,96.98,Indigo heather
+224,8/12/2022,96.8,Indigo heather
+225,8/13/2022,98.42,Indigo heather
+226,8/14/2022,98.6,Indigo heather
+227,8/15/2022,99.32,Indigo heather
+228,8/16/2022,100.22,Indigo heather
+229,8/17/2022,103.28,Asphalt heather
+230,8/18/2022,86.18,Urchin
+231,8/19/2022,92.48,Urchin
+232,8/20/2022,88.7,Urchin
+233,8/21/2022,88.88,Urchin
+234,8/22/2022,78.44,Comfrey
+235,8/23/2022,82.04,Comfrey
+236,8/24/2022,88.7,Urchin
+237,8/25/2022,92.48,Urchin
+238,8/26/2022,92.66,Urchin
+239,8/27/2022,95.72,Indigo heather
+240,8/28/2022,95.54,Indigo heather
+241,8/29/2022,93.56,Urchin
+242,8/30/2022,86.36,Urchin
+243,8/31/2022,87.26,Urchin
+244,9/1/2022,85.1,Comfrey
+245,9/2/2022,81.86,Comfrey
+246,9/3/2022,93.38,Urchin
+247,9/4/2022,92.66,Urchin
+248,9/5/2022,90.32,Urchin
+249,9/6/2022,93.38,Urchin
+250,9/7/2022,93.02,Urchin
+251,9/8/2022,88.52,Urchin
+252,9/9/2022,87.62,Urchin
+253,9/10/2022,87.98,Urchin
+254,9/11/2022,82.04,Comfrey
+255,9/12/2022,85.28,Comfrey
+256,9/13/2022,89.78,Urchin
+257,9/14/2022,88.16,Urchin
+258,9/15/2022,86.9,Urchin
+259,9/16/2022,89.96,Urchin
+260,9/17/2022,92.3,Urchin
+261,9/18/2022,92.48,Urchin
+262,9/19/2022,92.84,Urchin
+263,9/20/2022,95.18,Indigo heather
+264,9/21/2022,95.18,Indigo heather
+265,9/22/2022,95.72,Indigo heather
+266,9/23/2022,95.54,Indigo heather
+267,9/24/2022,94.1,Indigo heather
+268,9/25/2022,96.08,Indigo heather
+269,9/26/2022,85.46,Comfrey
+270,9/27/2022,87.8,Urchin
+271,9/28/2022,89.96,Urchin
+272,9/29/2022,81.86,Comfrey
+273,9/30/2022,80.42,Comfrey
+274,10/1/2022,80.96,Comfrey
+275,10/2/2022,82.4,Comfrey
+276,10/3/2022,82.94,Comfrey
+277,10/4/2022,84.74,Comfrey
+278,10/5/2022,87.08,Urchin
+279,10/6/2022,88.16,Urchin
+280,10/7/2022,87.08,Urchin
+281,10/8/2022,78.44,Comfrey
+282,10/9/2022,82.04,Comfrey
+283,10/10/2022,86.36,Urchin
+284,10/11/2022,82.94,Comfrey
+285,10/12/2022,93.56,Urchin
+286,10/13/2022,81.86,Comfrey
+287,10/14/2022,87.26,Urchin
+288,10/15/2022,92.48,Urchin
+289,10/16/2022,78.98,Comfrey
+290,10/17/2022,70.52,Seraphim
+291,10/18/2022,64.58,Sagebrush
+292,10/19/2022,68.18,Marble Heather
+293,10/20/2022,84.2,Comfrey
+294,10/21/2022,91.22,Urchin
+295,10/22/2022,87.26,Urchin
+296,10/23/2022,85.1,Comfrey
+297,10/24/2022,75.2,Seraphim
+298,10/25/2022,69.62,Marble Heather
+299,10/26/2022,72.14,Seraphim
+300,10/27/2022,73.94,Seraphim
+301,10/28/2022,62.24,Sagebrush
+302,10/29/2022,63.68,Sagebrush
+303,10/30/2022,73.94,Seraphim
+304,10/31/2022,76.82,Seraphim
+305,11/1/2022,75.92,Seraphim
+306,11/2/2022,72.68,Seraphim
+307,11/3/2022,79.88,Comfrey
+308,11/4/2022,75.92,Seraphim
+309,11/5/2022,67.28,Marble Heather
+310,11/6/2022,81.86,Comfrey
+311,11/7/2022,78.8,Comfrey
+312,11/8/2022,77.72,Seraphim
+313,11/9/2022,81.14,Comfrey
+314,11/10/2022,72.32,Seraphim
+315,11/11/2022,67.46,Marble Heather
+316,11/12/2022,51.8,Teal
+317,11/13/2022,53.06,Spearmint
+318,11/14/2022,45.14,Teal
+319,11/15/2022,47.12,Teal
+320,11/16/2022,54.32,Spearmint
+321,11/17/2022,60.08,Sagebrush
+322,11/18/2022,47.48,Teal
+323,11/19/2022,42.98,Teal
+324,11/20/2022,50.54,Teal
+325,11/21/2022,52.34,Teal
+326,11/22/2022,58.46,Spearmint
+327,11/23/2022,57.56,Spearmint
+328,11/24/2022,57.56,Spearmint
+329,11/25/2022,56.3,Spearmint
+330,11/26/2022,54.68,Spearmint
+331,11/27/2022,62.42,Sagebrush
+332,11/28/2022,68.54,Marble Heather
+333,11/29/2022,79.88,Comfrey
+334,11/30/2022,50,Teal
+335,12/1/2022,51.98,Teal
+336,12/2/2022,66.74,Marble Heather
+337,12/3/2022,61.7,Sagebrush
+338,12/4/2022,56.84,Spearmint
+339,12/5/2022,80.06,Comfrey
+340,12/6/2022,74.3,Seraphim
+341,12/7/2022,71.24,Seraphim
+342,12/8/2022,75.02,Seraphim
+343,12/9/2022,66.56,Marble Heather
+344,12/10/2022,71.96,Seraphim
+345,12/11/2022,57.38,Spearmint
+346,12/12/2022,63.86,Sagebrush
+347,12/13/2022,69.26,Marble Heather
+348,12/14/2022,58.28,Spearmint
+349,12/15/2022,54.14,Spearmint
+350,12/16/2022,47.84,Teal
+351,12/17/2022,51.44,Teal
+352,12/18/2022,54.68,Spearmint
+353,12/19/2022,49.1,Teal
+354,12/20/2022,53.96,Spearmint
+355,12/21/2022,50,Teal
+356,12/22/2022,42.98,Teal
+357,12/23/2022,23.54,Shoal
+358,12/24/2022,36.14,Shoal
+359,12/25/2022,51.44,Teal
+360,12/26/2022,57.56,Spearmint
+361,12/27/2022,57.92,Spearmint
+362,12/28/2022,72.32,Seraphim
+363,12/29/2022,70.34,Seraphim
+364,12/30/2022,61.7,Sagebrush
+365,12/31/2022,72.68,Seraphim
