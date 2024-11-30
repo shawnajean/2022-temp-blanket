@@ -1,6 +1,8 @@
 # 2022-temp-blanket
 
-https://www.temperature-blanket.com/info/project/3028/fort-worth-texas-united-states-from-1-1-2022-to-12-31-2022-2/
+Pattern: https://tlycblog.com/bias-granny-temperature-blanket-free-crochet-granny-square-afghan-pattern/
+
+Data: https://www.temperature-blanket.com/info/project/3028/fort-worth-texas-united-states-from-1-1-2022-to-12-31-2022-2/
 
 ## Yarn
 
