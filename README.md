@@ -20,3 +20,7 @@ Data: https://www.temperature-blanket.com/info/project/3028/fort-worth-texas-uni
 | H | `#3a3054` | 86 - 94 | Urchin |
 | I | `#2b1d37` | 94 - 101 | Indigo heather |
 | J | `#1c1b20` | 101 - 110 | Asphalt heather |
+
+## Hook
+
+C - 2.75 mm
