@@ -23,4 +23,4 @@ Data: https://www.temperature-blanket.com/info/project/3028/fort-worth-texas-uni
 
 ## Hook
 
-C - 2.75 mm
+D - 3.25mm
